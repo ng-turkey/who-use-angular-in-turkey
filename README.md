@@ -6,5 +6,5 @@ List of compaines who use Angular in Turkey
 
 | Name & Company URL | Description | Technologies |
 |--|--|--|
-| [https://www.rastmobile.com](Rast Mobile) | SPA & PWA Development | Angular, Ionic, WebRTC, RxJS, Nodejs, NestJS |
+| [Rast Mobile](https://www.rastmobile.com) | SPA & PWA Development | Angular, Ionic, WebRTC, RxJS, Nodejs, NestJS |
 
