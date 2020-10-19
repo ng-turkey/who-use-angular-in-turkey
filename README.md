@@ -12,3 +12,6 @@ List of compaines who use Angular in Turkey
 | [Rast Mobile](https://www.rastmobile.com) | SPA & PWA Development | Angular, Ionic, WebRTC, RxJS, Nodejs, NestJS |
 | [Selenity Teknoloji](http://www.selenityteknoloji.com) | Smart Test | Angular(7-8), RxJS,Spring Framework,Java |
 | [Garanti Teknoloji](https://www.garantiteknoloji.com.tr/) | Angular(7-8), RxJS |
+| [Testinium](https://testinium.com) | Selenium & Appium based with extensive mobile devices & web browsers for quick results. Helps you to manage your automation tests on one platform. | Angular 6, RxJS
+| [Loadium](https://loadium.com) |  JMeter & Gatling Based Load Testing Tool the Leading Platform that takes you beyond High Performance | Angular 10, RxJS
+| [QA Dashboard](https://dashboard.qa) | QA Dashboard is a software intelligence platform that collects quality-related metrics by connecting to your own tools to enable real-time monitoring of the entire software development life cycle & analyzes code repositories to measure development productivity. | Angular 10, RxJS
