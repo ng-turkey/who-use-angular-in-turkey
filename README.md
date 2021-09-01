@@ -15,3 +15,4 @@ List of compaines who use Angular in Turkey
 | [Testinium](https://testinium.com) | Selenium & Appium based with extensive mobile devices & web browsers for quick results. Helps you to manage your automation tests on one platform. | Angular 6, RxJS
 | [Loadium](https://loadium.com) |  JMeter & Gatling Based Load Testing Tool the Leading Platform that takes you beyond High Performance | Angular 10, RxJS
 | [QA Dashboard](https://dashboard.qa) | QA Dashboard is a software intelligence platform that collects quality-related metrics by connecting to your own tools to enable real-time monitoring of the entire software development life cycle & analyzes code repositories to measure development productivity. | Angular 10, RxJS
+| [virtuDev](https://virtudev.net/) | virtuDev is the customer centric value driven SW development & services company. | Angular, RxJS, .NET Core |
